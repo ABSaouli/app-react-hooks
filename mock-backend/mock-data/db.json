@@ -205,10 +205,10 @@
       "uuid": "44c5c9b6-a437-4bc9-bdd1-0cc4d291006c",
       "origin": "london",
       "destination": "barcelona",
-      "status": "ASSIGNED",
-      "assignee": 1,
-      "delivered_at": 0,
-      "pickedup_at": 1546905758246
+      "status": "DELIVERED",
+      "assignee": 5,
+      "delivered_at": 1550484856077,
+      "pickedup_at": null
     },
     {
       "id": 2,
@@ -216,7 +216,7 @@
       "origin": "paris",
       "destination": "barcelona",
       "status": "DELIVERED",
-      "assignee": 1,
+      "assignee": 3,
       "delivered_at": 1546823026706,
       "pickedup_at": null
     },
@@ -226,9 +226,9 @@
       "origin": "humbourg",
       "destination": "cologne",
       "status": "PICKED_UP",
-      "assignee": 3,
-      "delivered_at": 0,
-      "pickedup_at": 1546902857982
+      "assignee": 1,
+      "delivered_at": null,
+      "pickedup_at": 1550502899911
     },
     {
       "id": 4,
@@ -236,7 +236,7 @@
       "origin": "paris",
       "destination": "munich",
       "status": "ASSIGNED",
-      "assignee": 4,
+      "assignee": 3,
       "delivered_at": null,
       "pickedup_at": null
     },
@@ -575,10 +575,10 @@
       "uuid": "fff5d181-854c-4396-95ad-42e1e04800f0",
       "origin": "paris",
       "destination": "berlin",
-      "status": "PICKED_UP",
+      "status": "ASSIGNED",
       "assignee": 3,
       "delivered_at": null,
-      "pickedup_at": 1546794555
+      "pickedup_at": null
     },
     {
       "id": 39,
@@ -595,10 +595,10 @@
       "uuid": "7a47b6bc-2766-429f-ba06-25c4a1926a75",
       "origin": "paris",
       "destination": "cologne",
-      "status": "PICKED_UP",
+      "status": "DELIVERED",
       "assignee": 1,
-      "delivered_at": null,
-      "pickedup_at": 1546794555
+      "delivered_at": 1550484839710,
+      "pickedup_at": null
     },
     {
       "id": 41,
